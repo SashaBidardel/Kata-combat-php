@@ -51,6 +51,7 @@ class Character {
      $character->health = 0;
      $character->alive = false;
     }
+    hoal
 }
 }
 
